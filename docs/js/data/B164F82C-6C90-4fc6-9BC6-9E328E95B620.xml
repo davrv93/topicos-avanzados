@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("1.1.1:1", "", "dependencys", "EARoot/EA1/EA1/EA1/EA10.htm", "175.png", "37", "0", "", "Logical diagram0","{A556E297-C8F8-42a8-9BE8-7E4F256BDEFB}");
-tocTab[tocTab.length] = new Array("1.1.1.1", "1", "angular-js", "EARoot/EA1/EA1/EA1/EA12.htm", "4.png", "", "", "{57CED1FB-FAFB-4d10-87A2-10EF92F50805}", "Package");
+tocTab[tocTab.length] = new Array("1.1:1", "", "dependencys", "EARoot/EA1/EA1/EA8.htm", "175.png", "37", "0", "", "Logical diagram0","{A556E297-C8F8-42a8-9BE8-7E4F256BDEFB}");
+tocTab[tocTab.length] = new Array("1.1.1", "1", "angular-js", "EARoot/EA1/EA1/EA10.htm", "4.png", "", "", "{57CED1FB-FAFB-4d10-87A2-10EF92F50805}", "Package");
