@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("1.2.1.2.1:1", "", "verse.py", "EARoot/EA1/EA2/EA1/EA2/EA1/EA77.htm", "175.png", "43", "0", "", "Logical diagram0","{EEA78027-33E0-4d8d-AFD7-7161FA2E814E}");
-tocTab[tocTab.length] = new Array("1.2.1.2.1:2", "", "VerseSerializer", "EARoot/EA1/EA2/EA1/EA2/EA1/EA80.htm", "5.png", "111", "0", "", "Class0","{6923D185-4C36-46d8-AF54-13B664CD1D4E}");
-tocTab[tocTab.length] = new Array("1.2.1.2.1:3", "", "VerseView", "EARoot/EA1/EA2/EA1/EA2/EA1/EA81.htm", "5.png", "112", "0", "", "Class0","{60E94253-CFD0-4e23-89EB-A7CA32306435}");
+tocTab[tocTab.length] = new Array("1.2.1.2.1:1", "", "verse.py", "EARoot/EA1/EA2/EA1/EA2/EA1/EA74.htm", "175.png", "43", "0", "", "Logical diagram0","{EEA78027-33E0-4d8d-AFD7-7161FA2E814E}");
+tocTab[tocTab.length] = new Array("1.2.1.2.1:2", "", "VerseSerializer", "EARoot/EA1/EA2/EA1/EA2/EA1/EA77.htm", "5.png", "111", "0", "", "Class0","{6923D185-4C36-46d8-AF54-13B664CD1D4E}");
+tocTab[tocTab.length] = new Array("1.2.1.2.1:3", "", "VerseView", "EARoot/EA1/EA2/EA1/EA2/EA1/EA78.htm", "5.png", "112", "0", "", "Class0","{60E94253-CFD0-4e23-89EB-A7CA32306435}");
