@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1", "1", "bible-angularjs-client", "EARoot/EA1/EA3.htm", "4.png", "", "", "{30BC2206-10CF-41fc-BCA9-FB10A89436C9}", "Package");
+tocTab[tocTab.length] = new Array("1.2", "1", "bible-django-backend", "EARoot/EA1/EA4.htm", "4.png", "", "", "{50FC6355-8C42-42d3-88FD-531D7F94F51E}", "Package");
+tocTab[tocTab.length] = new Array("1.3", "1", "overview", "EARoot/EA1/EA5.htm", "4.png", "", "", "{E0C9B83B-DA89-4832-B024-598C14742B2C}", "Package");

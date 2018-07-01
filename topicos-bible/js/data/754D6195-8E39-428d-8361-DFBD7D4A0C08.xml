@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("1.1.2:1", "", "src", "EARoot/EA1/EA1/EA2/EA14.htm", "175.png", "27", "0", "", "Logical diagram0","{5409032D-254B-4da4-AF9A-471CCBD2237F}");
+tocTab[tocTab.length] = new Array("1.1.2:2", "", "«script library» app.js", "EARoot/EA1/EA1/EA2/EA16.htm", "82.png", "98", "0", "", "Artifact0","{D80DA2D1-1182-4104-B617-83902CB994AF}");
+tocTab[tocTab.length] = new Array("1.1.2:3", "", "«script library» config.js", "EARoot/EA1/EA1/EA2/EA18.htm", "82.png", "97", "0", "", "Artifact0","{E1173827-3F97-43f4-A91B-B386B5352767}");
+tocTab[tocTab.length] = new Array("1.1.2:4", "", "«web page» index.html", "EARoot/EA1/EA1/EA2/EA19.htm", "82.png", "100", "0", "", "Artifact0","{723721C0-EA4D-4950-A25D-A2B73782F156}");
+tocTab[tocTab.length] = new Array("1.1.2.1", "1", "components", "EARoot/EA1/EA1/EA2/EA17.htm", "4.png", "", "", "{4DA403FF-816A-431e-8B54-CECD2950B02A}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.2", "1", "verse", "EARoot/EA1/EA1/EA2/EA20.htm", "4.png", "", "", "{7D83C94F-4EF5-452d-9F7E-09099918FA44}", "Package");
